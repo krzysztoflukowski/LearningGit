@@ -1,3 +1,5 @@
+-- Testy SplitString
+
 DECLARE @T TABLE (
     Instalacja VARCHAR(100),
     Marka VARCHAR(50)
