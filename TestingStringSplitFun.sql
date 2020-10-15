@@ -9,7 +9,8 @@ INSERT INTO @T (Instalacja, Marka)
 VALUES ('Instalacja 1', 'Skoda;VW'),
     ('Instalacja 2', 'Skoda'),
     ('Instalacja 3', 'Seat;Porsche'),
-	('Instalacja 4', 'Seat;Porsche;Skoda');
+	('Instalacja 4', 'Seat;Porsche;Skoda'),
+    ('Instalacja 5', 'KIA');
 
 
 SELECT *
